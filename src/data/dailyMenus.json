@@ -1,0 +1,144 @@
+{
+    "week": [
+        {
+            "day": "Monday",
+            "meals": {
+                "breakfast": {
+                    "name": "Overnight Oats",
+                    "serving_size": "1",
+                    "calories": 200
+                },
+                "lunch": {
+                    "name": "Quinoa Salad",
+                    "serving_size": "1",
+                    "calories": 250
+                },
+                "dinner": {
+                    "name": "Chicken Curry with Vegetables",
+                    "serving_size": "1",
+                    "calories": 400
+                }
+            }
+        },
+        {
+            "day": "Tuesday",
+            "meals": {
+                "breakfast": {
+                    "name": "Greek Yogurt with Honey and Nuts",
+                    "serving_size": "1",
+                    "calories": 250
+                },
+                "lunch": {
+                    "name": "Stuffed Bell Peppers",
+                    "serving_size": "1",
+                    "calories": 300
+                },
+                "dinner": {
+                    "name": "Baked Salmon with Lemon",
+                    "serving_size": "1",
+                    "calories": 300
+                }
+            }
+        },
+        {
+            "day": "Wednesday",
+            "meals": {
+                "breakfast": {
+                    "name": "Green Smoothie",
+                    "serving_size": "1",
+                    "calories": 180
+                },
+                "lunch": {
+                    "name": "Chickpea Salad",
+                    "serving_size": "1",
+                    "calories": 300
+                },
+                "dinner": {
+                    "name": "Spaghetti Squash with Marinara",
+                    "serving_size": "1",
+                    "calories": 250
+                }
+            }
+        },
+        {
+            "day": "Thursday",
+            "meals": {
+                "breakfast": {
+                    "name": "Avocado Toast",
+                    "serving_size": "1",
+                    "calories": 250
+                },
+                "lunch": {
+                    "name": "Quinoa Stuffed Mushrooms",
+                    "serving_size": "1",
+                    "calories": 180
+                },
+                "dinner": {
+                    "name": "Fish Tacos",
+                    "serving_size": "1",
+                    "calories": 350
+                }
+            }
+        },
+        {
+            "day": "Friday",
+            "meals": {
+                "breakfast": {
+                    "name": "Almond Butter Banana Bites",
+                    "serving_size": "1",
+                    "calories": 150
+                },
+                "lunch": {
+                    "name": "Cauliflower Rice Stir-Fry",
+                    "serving_size": "1",
+                    "calories": 200
+                },
+                "dinner": {
+                    "name": "Turkey Meatballs",
+                    "serving_size": "1",
+                    "calories": 250
+                }
+            }
+        },
+        {
+            "day": "Saturday",
+            "meals": {
+                "breakfast": {
+                    "name": "Greek Yogurt with Honey and Nuts",
+                    "serving_size": "1",
+                    "calories": 250
+                },
+                "lunch": {
+                    "name": "Roasted Chickpeas",
+                    "serving_size": "1",
+                    "calories": 150
+                },
+                "dinner": {
+                    "name": "Sweet Potato Bites",
+                    "serving_size": "1",
+                    "calories": 180
+                }
+            }
+        },
+        {
+            "day": "Sunday",
+            "meals": {
+                "breakfast": {
+                    "name": "Overnight Oats",
+                    "serving_size": "1",
+                    "calories": 200
+                },
+                "lunch": {
+                    "name": "Vegetable Soup",
+                    "serving_size": "1",
+                    "calories": 150
+                },
+                "dinner": {
+                    "name": "Zucchini Noodles with Pesto",
+                    "serving_size": "1",
+                    "calories": 220
+                }
+            }
+        }
+    ]
+}

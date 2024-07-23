@@ -1,0 +1,459 @@
+{
+    "recipes": [
+        {
+            "id": 1,
+            "name": "Quinoa Salad",
+            "ingredients": [
+                "1 cup quinoa",
+                "2 cups water",
+                "1 cucumber, diced",
+                "1 tomato, diced",
+                "1/4 cup red onion, diced",
+                "1/4 cup chopped parsley",
+                "2 tablespoons olive oil",
+                "Juice of 1 lemon",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Rinse the quinoa under running water.",
+                "In a pot, add the quinoa and water. Bring to a boil.",
+                "Reduce the heat, cover the pot, and cook for about 15 minutes, until the water is absorbed.",
+                "Let the quinoa cool.",
+                "In a large bowl, mix the cooked quinoa with the remaining ingredients.",
+                "Season with olive oil, lemon juice, salt, and pepper.",
+                "Serve cold."
+            ],
+            "calories": 250,
+            "servings": 4
+        },
+        {
+            "id": 2,
+            "name": "Green Smoothie",
+            "ingredients": [
+                "1 cup spinach",
+                "1 banana",
+                "1/2 cup diced pineapple",
+                "1/2 cup almond milk",
+                "1 tablespoon chia seeds",
+                "Ice to taste"
+            ],
+            "instructions": [
+                "Add all ingredients to a blender.",
+                "Blend until smooth.",
+                "Serve immediately."
+            ],
+            "calories": 180,
+            "servings": 1
+        },
+        {
+            "id": 3,
+            "name": "Fish Tacos",
+            "ingredients": [
+                "400g fish fillet (tilapia or other white fish)",
+                "1 teaspoon cumin",
+                "1 teaspoon paprika",
+                "1 teaspoon garlic powder",
+                "Salt and pepper to taste",
+                "8 corn tortillas",
+                "1/2 cup shredded red cabbage",
+                "1/2 cup shredded carrot",
+                "1 avocado, sliced",
+                "1/4 cup chopped cilantro",
+                "Juice of 1 lime"
+            ],
+            "instructions": [
+                "Season the fish with cumin, paprika, garlic powder, salt, and pepper.",
+                "Grill the fish for about 3-4 minutes on each side, until cooked through.",
+                "Warm the tortillas in a skillet or microwave.",
+                "Assemble the tacos by placing the fish in the tortillas and topping with cabbage, carrot, avocado, and cilantro.",
+                "Drizzle with lime juice before serving."
+            ],
+            "calories": 350,
+            "servings": 4
+        },
+        {
+            "id": 4,
+            "name": "Overnight Oats",
+            "ingredients": [
+                "1/2 cup rolled oats",
+                "1/2 cup almond milk",
+                "1 tablespoon chia seeds",
+                "1 teaspoon honey",
+                "1/4 cup berries",
+                "1 tablespoon sliced almonds"
+            ],
+            "instructions": [
+                "In a jar, mix the oats, almond milk, chia seeds, and honey.",
+                "Cover and refrigerate overnight.",
+                "Before serving, add the berries and sliced almonds."
+            ],
+            "calories": 200,
+            "servings": 1
+        },
+        {
+            "id": 5,
+            "name": "Vegetable Soup",
+            "ingredients": [
+                "1 tablespoon olive oil",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "2 carrots, chopped",
+                "2 celery stalks, chopped",
+                "1 zucchini, chopped",
+                "1 cup kale, chopped",
+                "1 can diced tomatoes",
+                "4 cups vegetable broth",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Heat the olive oil in a large pot.",
+                "Add the onion and garlic, and sauté until softened.",
+                "Add the carrots, celery, zucchini, and sauté for a few more minutes.",
+                "Add the kale, tomatoes, and vegetable broth.",
+                "Bring to a boil, then reduce the heat and simmer for about 20 minutes.",
+                "Season with salt and pepper before serving."
+            ],
+            "calories": 150,
+            "servings": 4
+        },
+        {
+            "id": 6,
+            "name": "Chicken Curry with Vegetables",
+            "ingredients": [
+                "500g chicken breast, cubed",
+                "2 tablespoons curry powder",
+                "1 tablespoon olive oil",
+                "1 onion, chopped",
+                "2 garlic cloves, minced",
+                "1 red bell pepper, chopped",
+                "1 zucchini, chopped",
+                "1 carrot, chopped",
+                "1 can coconut milk",
+                "Salt and pepper to taste",
+                "Chopped cilantro for garnish"
+            ],
+            "instructions": [
+                "Heat the olive oil in a large pot.",
+                "Add the onion and garlic, and sauté until softened.",
+                "Add the chicken and cook until it starts to brown.",
+                "Add the curry powder and mix well.",
+                "Add the red bell pepper, zucchini, and carrot, and sauté for a few minutes.",
+                "Pour in the coconut milk and bring to a boil.",
+                "Reduce heat and simmer for about 15 minutes, until the chicken and vegetables are cooked through.",
+                "Season with salt and pepper.",
+                "Garnish with chopped cilantro before serving."
+            ],
+            "calories": 400,
+            "servings": 4
+        },
+        {
+            "id": 7,
+            "name": "Sweet Potato Bites",
+            "ingredients": [
+                "2 medium sweet potatoes",
+                "1 egg",
+                "1/4 cup oat flour",
+                "1/4 cup grated cheese (optional)",
+                "1 teaspoon salt",
+                "1/2 teaspoon pepper",
+                "1 teaspoon garlic powder",
+                "1 teaspoon cumin",
+                "Olive oil for greasing"
+            ],
+            "instructions": [
+                "Peel and cook the sweet potatoes until tender.",
+                "Mash the sweet potatoes and let them cool slightly.",
+                "Mix in the egg, oat flour, cheese (if using), salt, pepper, garlic powder, and cumin.",
+                "Form small bites with the mixture and place them on a greased baking sheet.",
+                "Bake at 200°C (400°F) for about 25 minutes, flipping halfway through, until golden brown."
+            ],
+            "calories": 180,
+            "servings": 4
+        },
+        {
+            "id": 8,
+            "name": "Greek Yogurt with Honey and Nuts",
+            "ingredients": [
+                "1 cup Greek yogurt",
+                "1 tablespoon honey",
+                "1/4 cup mixed nuts (such as almonds, walnuts, and pistachios)",
+                "1/4 cup fresh berries (optional)"
+            ],
+            "instructions": [
+                "Spoon the Greek yogurt into a bowl.",
+                "Drizzle with honey.",
+                "Top with mixed nuts and fresh berries if desired.",
+                "Serve immediately."
+            ],
+            "calories": 250,
+            "servings": 1
+        },
+        {
+            "id": 9,
+            "name": "Stuffed Bell Peppers",
+            "ingredients": [
+                "4 bell peppers (any color)",
+                "1 cup cooked brown rice",
+                "1 can black beans, drained and rinsed",
+                "1/2 cup corn kernels",
+                "1/2 cup diced tomatoes",
+                "1 teaspoon cumin",
+                "1 teaspoon chili powder",
+                "Salt and pepper to taste",
+                "1/2 cup shredded cheese (optional)",
+                "Chopped cilantro for garnish"
+            ],
+            "instructions": [
+                "Preheat the oven to 180°C (350°F).",
+                "Cut the tops off the bell peppers and remove the seeds.",
+                "In a bowl, mix the cooked rice, black beans, corn, diced tomatoes, cumin, chili powder, salt, and pepper.",
+                "Stuff the bell peppers with the mixture and place them in a baking dish.",
+                "Top with shredded cheese if using.",
+                "Bake for 25-30 minutes, until the peppers are tender.",
+                "Garnish with chopped cilantro before serving."
+            ],
+            "calories": 300,
+            "servings": 4
+        },
+        {
+            "id": 10,
+            "name": "Avocado Toast",
+            "ingredients": [
+                "2 slices whole-grain bread",
+                "1 ripe avocado",
+                "1 tablespoon lemon juice",
+                "Salt and pepper to taste",
+                "Red pepper flakes (optional)",
+                "Fresh herbs for garnish (optional)"
+            ],
+            "instructions": [
+                "Toast the bread slices to your desired level of crispiness.",
+                "Mash the avocado in a bowl and mix in lemon juice, salt, and pepper.",
+                "Spread the avocado mixture evenly over the toasted bread.",
+                "Sprinkle with red pepper flakes and fresh herbs if desired.",
+                "Serve immediately."
+            ],
+            "calories": 250,
+            "servings": 2
+        },
+        {
+            "id": 11,
+            "name": "Chickpea Salad",
+            "ingredients": [
+                "1 can chickpeas, drained and rinsed",
+                "1/2 cup cherry tomatoes, halved",
+                "1/4 cup red onion, diced",
+                "1/4 cup cucumber, diced",
+                "1/4 cup feta cheese, crumbled",
+                "2 tablespoons olive oil",
+                "Juice of 1 lemon",
+                "Salt and pepper to taste",
+                "Chopped parsley for garnish"
+            ],
+            "instructions": [
+                "In a large bowl, combine chickpeas, cherry tomatoes, red onion, cucumber, and feta cheese.",
+                "Drizzle with olive oil and lemon juice.",
+                "Season with salt and pepper and toss to combine.",
+                "Garnish with chopped parsley before serving."
+            ],
+            "calories": 300,
+            "servings": 4
+        },
+        {
+            "id": 12,
+            "name": "Spaghetti Squash with Marinara",
+            "ingredients": [
+                "1 medium spaghetti squash",
+                "2 cups marinara sauce",
+                "1 tablespoon olive oil",
+                "1/2 cup grated Parmesan cheese",
+                "Salt and pepper to taste",
+                "Fresh basil for garnish"
+            ],
+            "instructions": [
+                "Preheat the oven to 200°C (400°F).",
+                "Cut the spaghetti squash in half lengthwise and scoop out the seeds.",
+                "Drizzle the inside with olive oil, season with salt and pepper, and place cut-side down on a baking sheet.",
+                "Roast for 40-45 minutes, or until tender.",
+                "Use a fork to scrape the flesh into spaghetti-like strands.",
+                "Top with marinara sauce and Parmesan cheese.",
+                "Garnish with fresh basil before serving."
+            ],
+            "calories": 250,
+            "servings": 4
+        },
+        {
+            "id": 13,
+            "name": "Baked Salmon with Lemon",
+            "ingredients": [
+                "4 salmon fillets",
+                "2 tablespoons olive oil",
+                "Juice of 1 lemon",
+                "2 cloves garlic, minced",
+                "1 teaspoon dried oregano",
+                "Salt and pepper to taste",
+                "Lemon slices for garnish"
+            ],
+            "instructions": [
+                "Preheat the oven to 180°C (350°F).",
+                "Place the salmon fillets on a baking sheet lined with parchment paper.",
+                "In a small bowl, mix olive oil, lemon juice, garlic, oregano, salt, and pepper.",
+                "Brush the mixture over the salmon fillets.",
+                "Bake for 15-20 minutes, or until the salmon is cooked through.",
+                "Garnish with lemon slices before serving."
+            ],
+            "calories": 300,
+            "servings": 4
+        },
+        {
+            "id": 14,
+            "name": "Quinoa Stuffed Mushrooms",
+            "ingredients": [
+                "12 large mushrooms, stems removed",
+                "1 cup cooked quinoa",
+                "1/4 cup diced bell pepper",
+                "1/4 cup diced onion",
+                "1/4 cup grated cheese (optional)",
+                "2 tablespoons olive oil",
+                "Salt and pepper to taste",
+                "Fresh thyme for garnish"
+            ],
+            "instructions": [
+                "Preheat the oven to 180°C (350°F).",
+                "In a bowl, mix cooked quinoa, bell pepper, onion, and cheese if using.",
+                "Stuff each mushroom cap with the quinoa mixture.",
+                "Place the stuffed mushrooms on a baking sheet and drizzle with olive oil.",
+                "Bake for 20 minutes, or until the mushrooms are tender.",
+                "Garnish with fresh thyme before serving."
+            ],
+            "calories": 180,
+            "servings": 4
+        },
+        {
+            "id": 15,
+            "name": "Roasted Chickpeas",
+            "ingredients": [
+                "1 can chickpeas, drained and rinsed",
+                "1 tablespoon olive oil",
+                "1 teaspoon paprika",
+                "1/2 teaspoon cumin",
+                "Salt and pepper to taste"
+            ],
+            "instructions": [
+                "Preheat the oven to 200°C (400°F).",
+                "Pat the chickpeas dry with a paper towel.",
+                "Toss chickpeas with olive oil, paprika, cumin, salt, and pepper.",
+                "Spread on a baking sheet in a single layer.",
+                "Roast for 25-30 minutes, shaking the pan halfway through, until crispy.",
+                "Cool before serving."
+            ],
+            "calories": 150,
+            "servings": 4
+        },
+        {
+            "id": 16,
+            "name": "Cauliflower Rice Stir-Fry",
+            "ingredients": [
+                "1 head cauliflower, riced",
+                "2 tablespoons olive oil",
+                "1 cup mixed vegetables (carrots, peas, bell peppers)",
+                "2 cloves garlic, minced",
+                "2 tablespoons soy sauce",
+                "Salt and pepper to taste",
+                "Chopped green onions for garnish"
+            ],
+            "instructions": [
+                "Heat olive oil in a large skillet over medium heat.",
+                "Add garlic and mixed vegetables, and sauté until vegetables are tender.",
+                "Add riced cauliflower and soy sauce, and cook for about 5 minutes, stirring frequently.",
+                "Season with salt and pepper.",
+                "Garnish with chopped green onions before serving."
+            ],
+            "calories": 200,
+            "servings": 4
+        },
+        {
+            "id": 17,
+            "name": "Zucchini Noodles with Pesto",
+            "ingredients": [
+                "4 zucchinis, spiralized",
+                "1/2 cup basil pesto",
+                "1 tablespoon olive oil",
+                "Salt and pepper to taste",
+                "Cherry tomatoes for garnish (optional)",
+                "Parmesan cheese for garnish (optional)"
+            ],
+            "instructions": [
+                "Heat olive oil in a large skillet over medium heat.",
+                "Add zucchini noodles and cook for about 3-4 minutes, until tender.",
+                "Stir in basil pesto and cook for another 2 minutes.",
+                "Season with salt and pepper.",
+                "Garnish with cherry tomatoes and Parmesan cheese if desired."
+            ],
+            "calories": 220,
+            "servings": 4
+        },
+        {
+            "id": 18,
+            "name": "Turkey Meatballs",
+            "ingredients": [
+                "500g ground turkey",
+                "1/4 cup grated Parmesan cheese",
+                "1/4 cup breadcrumbs",
+                "1 egg",
+                "2 cloves garlic, minced",
+                "1 tablespoon dried oregano",
+                "Salt and pepper to taste",
+                "1 cup marinara sauce"
+            ],
+            "instructions": [
+                "Preheat the oven to 200°C (400°F).",
+                "In a large bowl, mix ground turkey, Parmesan cheese, breadcrumbs, egg, garlic, oregano, salt, and pepper.",
+                "Form into 1-inch meatballs and place on a baking sheet.",
+                "Bake for 20-25 minutes, or until cooked through.",
+                "Serve with marinara sauce."
+            ],
+            "calories": 250,
+            "servings": 4
+        },
+        {
+            "id": 19,
+            "name": "Almond Butter Banana Bites",
+            "ingredients": [
+                "2 ripe bananas",
+                "1/4 cup almond butter",
+                "1/4 cup dark chocolate chips",
+                "1 tablespoon coconut flakes (optional)"
+            ],
+            "instructions": [
+                "Slice the bananas into 1/2-inch rounds.",
+                "Spread almond butter on half of the banana slices.",
+                "Top with the remaining banana slices to form sandwiches.",
+                "Melt dark chocolate chips and dip each sandwich into the chocolate.",
+                "Sprinkle with coconut flakes if desired.",
+                "Refrigerate until chocolate is set."
+            ],
+            "calories": 150,
+            "servings": 4
+        },
+        {
+            "id": 20,
+            "name": "Mango Chia Pudding",
+            "ingredients": [
+                "1/4 cup chia seeds",
+                "1 cup coconut milk",
+                "2 tablespoons honey",
+                "1 ripe mango, diced",
+                "Mint leaves for garnish"
+            ],
+            "instructions": [
+                "In a bowl, mix chia seeds, coconut milk, and honey.",
+                "Cover and refrigerate for at least 4 hours or overnight.",
+                "Stir the pudding well before serving.",
+                "Top with diced mango and garnish with mint leaves."
+            ],
+            "calories": 300,
+            "servings": 2
+        }
+    ]
+}
